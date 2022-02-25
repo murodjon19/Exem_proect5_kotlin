@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_item" type="id" />
+    <item name="setting_second" type="id" />
+    <item name="setting_three" type="id" />
+    <item name="setting_four" type="id" />
+</resources>
